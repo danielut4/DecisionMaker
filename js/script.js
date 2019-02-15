@@ -26,9 +26,9 @@ questions['ita'] = [
 questions['eng'] = [
 	'',
 	'Are you making a change to the Database',
-	'Are you making a change that effects the sales process',
+	'Are you making a change that affects the sales process',
 	'Does your change require form changes',
-    'Does you change have anything to do with web leads',
+    'Does your change have anything to do with web leads',
 	
 ];
 
